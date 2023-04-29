@@ -1,0 +1,13 @@
+DROP TABLE Reservations;
+DROP TABLE Departed;
+DROP TABLE Arrived;
+DROP TABLE Departure_schedule;
+DROP TABLE Arrival_schedule;
+DROP TABLE Flights;
+DROP TABLE Aircraft;
+DROP TABLE Type_of_aircraft;
+DROP TABLE Check_in_desks;
+DROP TABLE Runways;
+DROP TABLE Luggage_belts;
+DROP TABLE Gates;
+DROP TABLE Airports;
